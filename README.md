@@ -1,4 +1,4 @@
-# Amzon-web-scrapping-project
+# Amazon-web-scrapping-project
 •	Import the  required libraries
 -	Connect to Website and pull in data
 -	Clean up the data
